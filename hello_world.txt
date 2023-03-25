@@ -1,3 +1,4 @@
 Adding lines to this
 another one
 adding another line to test git commit
+and one more to test with terminal
